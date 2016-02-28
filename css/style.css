@@ -1,0 +1,93 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: normal 10px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #0e1010;
+	background: #839299 url('../images/bg.gif') repeat-x;
+}
+a {
+	font: normal 14px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	text-decoration: underline;
+	color: #dce0e2;
+}
+:active, :focus{
+	outline: none;
+}
+#container {
+	margin: 0 auto;
+	padding: 0 23px 0 23px;
+	width: 274px;
+	text-align: center;
+}
+#logo{
+	margin: 10px 0 0 0;
+	width: 274px;
+	height: 314px;
+	display: block;
+	overflow: hidden;
+}
+#links{
+	margin: 12px 0 0 0;
+	width: 274px;
+	height: 61px;
+	display: block;
+	overflow: hidden;
+}
+#soundcloud{
+	margin: 0 11px 0 0;
+	float: left;
+}
+#facebook{
+	margin: 0 10px 0 0;
+	float: left;
+}
+#twitter{
+	margin: 0 10px 0 0;
+	float: left;
+}
+#myspace{
+	margin:0;
+	padding: 0;
+	float: left;
+}
+#description{
+	margin: 20px 0 0 0;
+	width: 274px;
+	font: normal 16px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #0e1010;
+}
+#shows{
+	margin: 20px 0 0 0;
+	width: 274px;
+	font: normal 14px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #dce0e2;
+	text-align: center;
+}
+#shows h3{
+	font: bold 24px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #dce0e2;
+	padding: 0;
+	margin: 0 0 6px 0;
+}
+#music{
+	margin: 20px 0 0 0;
+	width: 274px;
+	font: normal 14px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+}
+#music h3{
+	font: bold 20px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #0e1010;
+	padding: 0;
+	margin: 0 0 12px 0;
+}
+#music a{
+	font: normal 16px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	line-height: 24px;
+	text-align: center;
+}
+#copyright{
+	width: 274px;
+	margin: 30px 0 30px 0;
+	color: #42494d;
+}
